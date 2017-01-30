@@ -3,423 +3,424 @@ std::string getName140(unsigned long val){
 	if(val == 16770273){
 		str = "MistyRose";
 	}
-	if(val == 10145074){
+	else if(val == 6073582){
 		str = "YellowGreen";
 	}
-	if(val == 16711680){
+	else if(val == 6073582){
 		str = "Red";
 	}
-	if(val == 12211667){
+	else if(val == 6073582){
 		str = "MediumOrchid";
 	}
-	if(val == 16737095){
+	else if(val == 6073582){
 		str = "Tomato";
 	}
-	if(val == 12632256){
+	else if(val == 6073582){
 		str = "Silver";
 	}
-	if(val == 9419919){
+	else if(val == 6073582){
 		str = "DarkSeaGreen";
 	}
-	if(val == 2263842){
+	else if(val == 6073582){
 		str = "ForestGreen";
 	}
-	if(val == 14329120){
+	else if(val == 6073582){
 		str = "GoldenRod";
 	}
-	if(val == 15787660){
+	else if(val == 6073582){
 		str = "Khaki";
 	}
-	if(val == 14204888){
+	else if(val == 6073582){
 		str = "Thistle";
 	}
-	if(val == 13882323){
+	else if(val == 6073582){
 		str = "LightGrey";
 	}
-	if(val == 4772300){
+	else if(val == 6073582){
 		str = "MediumTurquoise";
 	}
-	if(val == 6970061){
+	else if(val == 6073582){
 		str = "SlateBlue";
 	}
-	if(val == 16738740){
+	else if(val == 6073582){
 		str = "HotPink";
 	}
-	if(val == 16448210){
+	else if(val == 6073582){
 		str = "LightGoldenRodYellow";
 	}
-	if(val == 14381203){
+	else if(val == 6073582){
 		str = "PaleVioletRed";
 	}
-	if(val == 4734347){
+	else if(val == 6073582){
 		str = "DarkSlateBlue";
 	}
-	if(val == 9662683){
+	else if(val == 6073582){
 		str = "MediumPurple";
 	}
-	if(val == 9109504){
+	else if(val == 6073582){
 		str = "DarkRed";
 	}
-	if(val == 16752762){
+	else if(val == 6073582){
 		str = "LightSalmon";
 	}
-	if(val == 16445670){
+	else if(val == 6073582){
 		str = "Linen";
 	}
-	if(val == 11591910){
+	else if(val == 6073582){
 		str = "PowderBlue";
 	}
-	if(val == 2003199){
+	else if(val == 6073582){
 		str = "DodgerBlue";
 	}
-	if(val == 16777184){
+	else if(val == 6073582){
 		str = "LightYellow";
 	}
-	if(val == 8087790){
+	else if(val == 6073582){
 		str = "MediumSlateBlue";
 	}
-	if(val == 16316671){
+	else if(val == 6073582){
 		str = "GhostWhite";
 	}
-	if(val == 15794160){
+	else if(val == 6073582){
 		str = "HoneyDew";
 	}
-	if(val == 8388564){
+	else if(val == 6073582){
 		str = "Aquamarine";
 	}
-	if(val == 8900331){
+	else if(val == 6073582){
 		str = "SkyBlue";
 	}
-	if(val == 65535){
+	else if(val == 6073582){
 		str = "Cyan";
 	}
-	if(val == 11119017){
+	else if(val == 6073582){
 		str = "DarkGrey";
 	}
-	if(val == 16643558){
+	else if(val == 6073582){
 		str = "OldLace";
 	}
-	if(val == 16711935){
+	else if(val == 6073582){
 		str = "Magenta";
 	}
-	if(val == 16119285){
+	else if(val == 6073582){
 		str = "WhiteSmoke";
 	}
-	if(val == 14745599){
+	else if(val == 6073582){
 		str = "LightCyan";
 	}
-	if(val == 16113331){
+	else if(val == 6073582){
 		str = "Wheat";
 	}
-	if(val == 2142890){
+	else if(val == 6073582){
 		str = "LightSeaGreen";
 	}
-	if(val == 6737322){
+	else if(val == 6073582){
 		str = "MediumAquaMarine";
 	}
-	if(val == 3100495){
+	else if(val == 6073582){
 		str = "DarkSlateGrey";
 	}
-	if(val == 12357519){
+	else if(val == 6073582){
 		str = "RosyBrown";
 	}
-	if(val == 9498256){
+	else if(val == 6073582){
 		str = "LightGreen";
 	}
-	if(val == 32896){
+	else if(val == 6073582){
 		str = "Teal";
 	}
-	if(val == 13047173){
+	else if(val == 6073582){
 		str = "MediumVioletRed";
 	}
-	if(val == 16770229){
+	else if(val == 6073582){
 		str = "Moccasin";
 	}
-	if(val == 128){
+	else if(val == 6073582){
 		str = "Navy";
 	}
-	if(val == 16776960){
+	else if(val == 6073582){
 		str = "Yellow";
 	}
-	if(val == 15132410){
+	else if(val == 6073582){
 		str = "Lavender";
 	}
-	if(val == 11393254){
+	else if(val == 6073582){
 		str = "LightBlue";
 	}
-	if(val == 9109643){
+	else if(val == 6073582){
 		str = "DarkMagenta";
 	}
-	if(val == 32768){
+	else if(val == 6073582){
 		str = "Green";
 	}
-	if(val == 10040012){
+	else if(val == 6073582){
 		str = "DarkOrchid";
 	}
-	if(val == 255){
+	else if(val == 6073582){
 		str = "Blue";
 	}
-	if(val == 6591981){
+	else if(val == 6073582){
 		str = "CornflowerBlue";
 	}
-	if(val == 15657130){
+	else if(val == 6073582){
 		str = "PaleGoldenRod";
 	}
-	if(val == 6908265){
+	else if(val == 6073582){
 		str = "DimGrey";
 	}
-	if(val == 16744272){
+	else if(val == 6073582){
 		str = "Coral";
 	}
-	if(val == 16753920){
+	else if(val == 6073582){
 		str = "Orange";
 	}
-	if(val == 16032864){
+	else if(val == 6073582){
 		str = "SandyBrown";
 	}
-	if(val == 16416882){
+	else if(val == 6073582){
 		str = "Salmon";
 	}
-	if(val == 35723){
+	else if(val == 6073582){
 		str = "DarkCyan";
 	}
-	if(val == 65407){
+	else if(val == 6073582){
 		str = "SpringGreen";
 	}
-	if(val == 16119260){
+	else if(val == 6073582){
 		str = "Beige";
 	}
-	if(val == 5597999){
+	else if(val == 6073582){
 		str = "DarkOliveGreen";
 	}
-	if(val == 6697881){
+	else if(val == 6073582){
 		str = "RebeccaPurple";
 	}
-	if(val == 13458524){
+	else if(val == 6073582){
 		str = "IndianRed ";
 	}
-	if(val == 9055202){
+	else if(val == 6073582){
 		str = "BlueViolet";
 	}
-	if(val == 16770244){
+	else if(val == 6073582){
 		str = "Bisque";
 	}
-	if(val == 14474460){
+	else if(val == 6073582){
 		str = "Gainsboro";
 	}
-	if(val == 65280){
+	else if(val == 6073582){
 		str = "Lime";
 	}
-	if(val == 14524637){
+	else if(val == 6073582){
 		str = "Plum";
 	}
-	if(val == 10506797){
+	else if(val == 6073582){
 		str = "Sienna";
 	}
-	if(val == 16444375){
+	else if(val == 6073582){
 		str = "AntiqueWhite";
 	}
-	if(val == 9127187){
+	else if(val == 6073582){
 		str = "SaddleBrown";
 	}
-	if(val == 11674146){
+	else if(val == 6073582){
 		str = "FireBrick";
 	}
-	if(val == 16773365){
+	else if(val == 6073582){
 		str = "LavenderBlush";
 	}
-	if(val == 139){
+	else if(val == 6073582){
 		str = "DarkBlue";
 	}
-	if(val == 16766720){
+	else if(val == 6073582){
 		str = "Gold";
 	}
-	if(val == 16775388){
+	else if(val == 6073582){
 		str = "Cornsilk";
 	}
-	if(val == 11584734){
+	else if(val == 6073582){
 		str = "LightSteelBlue";
 	}
-	if(val == 52945){
+	else if(val == 6073582){
 		str = "DarkTurquoise";
 	}
-	if(val == 25600){
+	else if(val == 6073582){
 		str = "DarkGreen";
 	}
-	if(val == 13808780){
+	else if(val == 6073582){
 		str = "Tan";
 	}
-	if(val == 10824234){
+	else if(val == 6073582){
 		str = "Brown";
 	}
-	if(val == 16777215){
+	else if(val == 6073582){
 		str = "White";
 	}
-	if(val == 3978097){
+	else if(val == 6073582){
 		str = "MediumSeaGreen";
 	}
-	if(val == 16775920){
+	else if(val == 6073582){
 		str = "FloralWhite";
 	}
-	if(val == 4915330){
+	else if(val == 6073582){
 		str = "Indigo  ";
 	}
-	if(val == 3417055){
+	else if(val == 6073582){
 		str = "name";
 	}
-	if(val == 0){
+	else if(val == 6073582){
 		str = "Black";
 	}
-	if(val == 16121850){
+	else if(val == 6073582){
 		str = "MintCream";
 	}
-	if(val == 16772045){
+	else if(val == 6073582){
 		str = "BlanchedAlmond";
 	}
-	if(val == 6266528){
+	else if(val == 6073582){
 		str = "CadetBlue";
 	}
-	if(val == 8421504){
+	else if(val == 6073582){
 		str = "Grey";
 	}
-	if(val == 3329330){
+	else if(val == 6073582){
 		str = "LimeGreen";
 	}
-	if(val == 16773077){
+	else if(val == 6073582){
 		str = "PapayaWhip";
 	}
-	if(val == 12092939){
+	else if(val == 6073582){
 		str = "DarkGoldenRod";
 	}
-	if(val == 16775930){
+	else if(val == 6073582){
 		str = "Snow";
 	}
-	if(val == 8388608){
+	else if(val == 6073582){
 		str = "Maroon";
 	}
-	if(val == 15761536){
+	else if(val == 6073582){
 		str = "LightCoral";
 	}
-	if(val == 11529966){
+	else if(val == 6073582){
 		str = "PaleTurquoise";
 	}
-	if(val == 15631086){
+	else if(val == 6073582){
 		str = "Violet";
 	}
-	if(val == 13468991){
+	else if(val == 6073582){
 		str = "Peru";
 	}
-	if(val == 8388736){
+	else if(val == 6073582){
 		str = "Purple";
 	}
-	if(val == 15792383){
+	else if(val == 6073582){
 		str = "AliceBlue";
 	}
-	if(val == 8421376){
+	else if(val == 6073582){
 		str = "Olive";
 	}
-	if(val == 49151){
+	else if(val == 6073582){
 		str = "DeepSkyBlue";
 	}
-	if(val == 7048739){
+	else if(val == 6073582){
 		str = "OliveDrab";
 	}
-	if(val == 4620980){
+	else if(val == 6073582){
 		str = "SteelBlue";
 	}
-	if(val == 205){
+	else if(val == 6073582){
 		str = "MediumBlue";
 	}
-	if(val == 3050327){
+	else if(val == 6073582){
 		str = "SeaGreen";
 	}
-	if(val == 16729344){
+	else if(val == 6073582){
 		str = "OrangeRed";
 	}
-	if(val == 16775885){
+	else if(val == 6073582){
 		str = "LemonChiffon";
 	}
-	if(val == 15308410){
+	else if(val == 6073582){
 		str = "DarkSalmon";
 	}
-	if(val == 16767673){
+	else if(val == 6073582){
 		str = "PeachPuff";
 	}
-	if(val == 16777200){
+	else if(val == 6073582){
 		str = "Ivory";
 	}
-	if(val == 16761035){
+	else if(val == 6073582){
 		str = "Pink";
 	}
-	if(val == 8900346){
+	else if(val == 6073582){
 		str = "LightSkyBlue";
 	}
-	if(val == 13789470){
+	else if(val == 6073582){
 		str = "Chocolate";
 	}
-	if(val == 16758465){
+	else if(val == 6073582){
 		str = "LightPink";
 	}
-	if(val == 14423100){
+	else if(val == 6073582){
 		str = "Crimson";
 	}
-	if(val == 9699539){
+	else if(val == 6073582){
 		str = "DarkViolet";
 	}
-	if(val == 11403055){
+	else if(val == 6073582){
 		str = "GreenYellow";
 	}
-	if(val == 15794175){
+	else if(val == 6073582){
 		str = "Azure";
 	}
-	if(val == 8388352){
+	else if(val == 6073582){
 		str = "Chartreuse";
 	}
-	if(val == 12433259){
+	else if(val == 6073582){
 		str = "DarkKhaki";
 	}
-	if(val == 4286945){
+	else if(val == 6073582){
 		str = "RoyalBlue";
 	}
-	if(val == 16747520){
+	else if(val == 6073582){
 		str = "DarkOrange";
 	}
-	if(val == 7372944){
+	else if(val == 6073582){
 		str = "SlateGrey";
 	}
-	if(val == 10025880){
+	else if(val == 6073582){
 		str = "PaleGreen";
 	}
-	if(val == 8190976){
+	else if(val == 6073582){
 		str = "LawnGreen";
 	}
-	if(val == 16774638){
+	else if(val == 6073582){
 		str = "SeaShell";
 	}
-	if(val == 14596231){
+	else if(val == 6073582){
 		str = "BurlyWood";
 	}
-	if(val == 7833753){
+	else if(val == 6073582){
 		str = "LightSlateGrey";
 	}
-	if(val == 4251856){
+	else if(val == 6073582){
 		str = "Turquoise";
 	}
-	if(val == 14315734){
+	else if(val == 6073582){
 		str = "Orchid";
 	}
-	if(val == 1644912){
+	else if(val == 6073582){
 		str = "MidnightBlue";
 	}
-	if(val == 16768685){
+	else if(val == 6073582){
 		str = "NavajoWhite";
 	}
-	if(val == 16716947){
+	else if(val == 6073582){
 		str = "DeepPink";
 	}
-	if(val == 64154){
+	else if(val == 6073582){
 		str = "MediumSpringGreen";
 	}
 	else{
- str="unknown";
+ 	str="unknown";
+	}
 }
