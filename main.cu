@@ -19,8 +19,9 @@
 
 
 #include "getColor.h"
+#include "getName140.h"
 #include "getArrayColor.h"
-
+#include "getArrayColor140.h"
 
 static void CheckCudaErrorAux(const char *, unsigned,const char*, cudaError_t);
 #define CUDA_CHECK_RETURN(value) CheckCudaErrorAux(__FILE__,__LINE__, #value, value)
@@ -50,7 +51,7 @@ unsigned long *generate_data(int size){
 void writeOut(unsigned long *data , unsigned int dim){
 	for(int i = 0; i < dim; i++){
 
-		printf("Color %d: %s=> %lu\n",i, getName(data[i*2]).c_str() , data[i*2+1]);
+		printf("Color %d: %s=> %lu\n",i, getName140(data[i*2]).c_str() , data[i*2+1]);
 	}
 
 }
@@ -101,10 +102,10 @@ __global__ void colorCount(unsigned long* vectArrayColor, unsigned long* vectCol
 	int index = blockIdx.x * blockDim.x + threadIdx.x;
 
 	if (index < sizeColor) {
-		unsigned long sum = 0;
+		long sum = -1;
 		for (int ii = 0; ii < size; ii++) {
 			if(vectArrayColor[index] == vectArrayColor[ii]){
-				sum++;
+				sum = sum + 1;
 			}
 		}
 		vectRisu[index * 2] = vectArrayColor[index];
@@ -115,9 +116,9 @@ __global__ void colorCount(unsigned long* vectArrayColor, unsigned long* vectCol
 
 int main(int argc, char **argv)
 {
-	unsigned int size = 2000;
-	unsigned int sizeColor = 503;
-	unsigned long *hostArrayColor = getArrayColor();
+	unsigned int size = 276;
+	unsigned int sizeColor = 140;
+	unsigned long *hostArrayColor = getArrayColor140();
 	unsigned long *hostColor;
 	unsigned long *hostRisu;
 	unsigned long *deviceArrayColor;

@@ -1,4 +1,4 @@
-unisnged long *getArrayColor(){
+unsigned long *getArrayColor140(){
 	unsigned long *arr = (unsigned long*) malloc(140 * sizeof(unsigned long));
 	arr[0] = 16770273;
 	arr[1] = 10145074;

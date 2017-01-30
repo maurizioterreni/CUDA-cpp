@@ -189,4 +189,6 @@
     /usr/include/c++/5/bits/fstream.tcc \
     /usr/include/c++/5/iostream \
     ../getColor.h \
-    ../getArrayColor.h
+    ../getName140.h \
+    ../getArrayColor.h \
+    ../getArrayColor140.h
