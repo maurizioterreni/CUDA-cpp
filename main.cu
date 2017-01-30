@@ -18,10 +18,9 @@
 #include <cuda_runtime_api.h>
 
 
-#include "getColor.h"
 #include "getName140.h"
 #include "getArrayColor.h"
-#include "getArrayColor140.h"
+
 
 static void CheckCudaErrorAux(const char *, unsigned,const char*, cudaError_t);
 #define CUDA_CHECK_RETURN(value) CheckCudaErrorAux(__FILE__,__LINE__, #value, value)
